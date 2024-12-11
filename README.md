@@ -1,2 +1,7 @@
 # cs5180-final-project
-"Balancing Exploration and Gradient Stability in Deep RL Methods", Partner Final Project for CS5180: Reinforcement Learning and Sequential Decision Making
+"Efficiently Managing Exploration and Gradient Stability in Deep PG Methods", Partner Final Project for CS5180: Reinforcement Learning and Sequential Decision Making
+
+## Authors
+
+- Vedant Nilabh
+- Richik Sinha Choudhury
